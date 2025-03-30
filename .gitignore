@@ -5,3 +5,4 @@ task2/digits
 task2/mnist
 *.pkl
 *.csv
+*.txt
